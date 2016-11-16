@@ -1,0 +1,20 @@
+   36  git commit mySpring/
+   37  git commit -m "space for spring folder"
+   38  git remove add origin https://github.com/ThinkGo/Spring.git
+   39  git remote add origin https://github.com/ThinkGo/Spring.git
+   40  git remove -v
+   41  git remote -v
+   42  git push origin master
+   43  git rebase
+   44  git rebase master
+   45  git push
+   46  git statush
+   47  git status
+   48  git add Demo1/
+   49  git push
+   50  git commit -m "demo 1 folder"
+   51  git push
+   52  git push origin master
+   53  git pull
+   54  git pull origin master
+   55  git fetch
